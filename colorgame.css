@@ -1,0 +1,37 @@
+body{
+	background-color: #232323;
+	margin : 0;
+}
+.square{
+	width:30%;
+	background-color: pink;
+	float: left;
+	padding-bottom:30%;
+	margin: 1.66%;
+}
+#container{
+	max-width: 600px;
+	margin:0 auto;
+}
+h1{
+	margin: 0;
+	color: white;
+	background-color: steelblue;
+}
+span{
+
+	background-color: white
+	color:black;
+}
+#strip{
+	background-color: white;
+	height: 30px;
+	text-align: center;
+}
+.selected{
+	background-color: steelblue;
+}
+.bar{
+	border: none;
+	background: none;
+}
